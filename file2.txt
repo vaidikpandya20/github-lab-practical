@@ -1,0 +1,2 @@
+Git branches let you create separate lines of development within a repository.
+They’re used to work on features or fixes without affecting the main codebase, and can be merged back when ready.
